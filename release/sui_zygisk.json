@@ -1,6 +1,6 @@
 {
-  "versionCode": 274,
-  "version": "v12.6.1",
-  "zipUrl": "https://github.com/RikkaApps/Sui/releases/download/v12.6.1/sui-zygisk-v12.6.1-release.zip",
+  "versionCode": 281,
+  "version": "v12.6.2",
+  "zipUrl": "https://github.com/RikkaApps/Sui/releases/download/v12.6.2/sui-zygisk-v12.6.2-release.zip",
   "changelog": "https://raw.githubusercontent.com/RikkaApps/Sui/master/template/magisk_module/CHANGELOG.md"
 }
