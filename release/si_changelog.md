@@ -1,6 +1,6 @@
 # Changelog
 
-### v27.0.0 (80) (2022-05-20)
+### v27.0.0 (81) (2022-05-20)
 
 - Restore "Access folders from other apps" on devices without sdcardfs
 
