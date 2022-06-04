@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "version": "v26.2.0",
-  "zipUrl": "https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/storage-isolation-zygisk-v26.2.0-release.zip",
+  "versionCode": 81,
+  "version": "v27.0.0",
+  "zipUrl": "https://github.com/RikkaApps/StorageRedirect-assets/releases/download/assets/storage-isolation-zygisk-v27.0.0-release.zip",
   "changelog": "https://raw.githubusercontent.com/RikkaApps/RikkaApps.github.io/master/release/si_changelog.md"
 }

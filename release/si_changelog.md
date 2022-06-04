@@ -1,5 +1,9 @@
 # Changelog
 
+### v27.0.0 (80) (2022-05-20)
+
+- Restore "Access folders from other apps" on devices without sdcardfs
+
 ### v26.2.0 (80) (2022-03-03)
 
 - "Export isolated files" rules is now apply to "insert with Media Storage" with Android 11 API"
