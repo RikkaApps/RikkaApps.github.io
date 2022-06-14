@@ -1,5 +1,9 @@
 # Changelog
 
+### v27.1.0 (82) (2022-06-14)
+
+- Fix a problem where "Handle system providers" causing some apps unable to access files that were already been set as accessible
+
 ### v27.0.0 (81) (2022-05-20)
 
 - Restore "Access folders from other apps" on devices without sdcardfs
