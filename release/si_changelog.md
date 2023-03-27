@@ -1,5 +1,11 @@
 # Changelog
 
+### v28.1.0 (85)
+
+- When handling "insert with Media Storage with Android 11 API", sanitize `DISPLAY_NAME` and `RELATIVE_PATH`
+  
+  This could solve the problem that if there are bad characters, such as `.`, `..`, `/`, in `DISPLAY_NAME` or `RELATIVE_PATH`, "Redirect system providers" rules will not work correctly
+
 ### v27.1.0 (82) (2022-06-14)
 
 - Fix a problem where "Handle system providers" causing some apps unable to access files that were already been set as accessible
