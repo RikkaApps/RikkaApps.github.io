@@ -1,6 +1,6 @@
 {
-  "versionCode": 300,
-  "version": "v12.7.2",
-  "zipUrl": "https://github.com/RikkaApps/Sui/releases/download/v12.7.2/sui-riru-v12.7.2-release.zip",
+  "versionCode": 319,
+  "version": "v13.5.1",
+  "zipUrl": "https://github.com/RikkaApps/Sui/releases/download/v13.5.1/sui-riru-v13.5.1-release.zip",
   "changelog": "https://raw.githubusercontent.com/RikkaApps/Sui/master/template/magisk_module/CHANGELOG.md"
 }
